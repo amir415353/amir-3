@@ -4,94 +4,94 @@ import json
 def hc_solver1(a, dd2):
 	if dd2 and '0' in a:
 		if dd2 in a:
-			mouse.position = (490, 285)
+			mouse.position = (507, 157)
 			mouse.click(Button.left, 1)
 			time.sleep(1)
 	elif dd2 and '1' in a:
 		if dd2 in a:
-			mouse.position = (634, 282)
+			mouse.position = (631, 161)
 			mouse.click(Button.left, 1)
 			time.sleep(1)
 	elif dd2 and '2' in a:
 		if dd2 in a:
-			mouse.position = (753, 296)
+			mouse.position = (749, 153)
 			mouse.click(Button.left, 1)
 			time.sleep(1)
 	elif dd2 and '3' in a:
 		if dd2 in a:
-			mouse.position = (492, 420)
+			mouse.position = (503, 287)
 			mouse.click(Button.left, 1)
 			time.sleep(1)
 	elif dd2 and '4' in a:
 		if dd2 in a:
-			mouse.position = (633, 422)
+			mouse.position = (616, 290)
 			mouse.click(Button.left, 1)
 			time.sleep(1)
 	elif dd2 and '5' in a:
 		if dd2 in a:
-			mouse.position = (750, 422)
+			mouse.position = (742, 284)
 			mouse.click(Button.left, 1)
 			time.sleep(1)
 	elif dd2 and '6' in a:
 		if dd2 in a:
-			mouse.position = (503, 548)
+			mouse.position = (504, 404)
 			mouse.click(Button.left, 1)
 			time.sleep(1)
 	elif dd2 and '7' in a:
 		if dd2 in a:
-			mouse.position = (624, 540)
+			mouse.position = (621, 421)
 			mouse.click(Button.left, 1)
 			time.sleep(1)
 	elif dd2 and '8' in a:
 		if dd2 in a:
-			mouse.position = (754, 535)
+			mouse.position = (758, 420)
 			mouse.click(Button.left, 1)
 			time.sleep(1)
 
 def hc_solver2(a, dd2):
 	if dd2 and '9' in a:
 		if dd2 in a:
-			mouse.position = (490, 285)
+			mouse.position = (507, 157)
 			mouse.click(Button.left, 1)
 			time.sleep(1)
 	elif dd2 and '10' in a:
 		if dd2 in a:
-			mouse.position = (634, 282)
+			mouse.position = (631, 161)
 			mouse.click(Button.left, 1)
 			time.sleep(1)
 	elif dd2 and '11' in a:
 		if dd2 in a:
-			mouse.position = (753, 296)
+			mouse.position = (749, 153)
 			mouse.click(Button.left, 1)
 			time.sleep(1)
 	elif dd2 and '12' in a:
 		if dd2 in a:
-			mouse.position = (492, 420)
+			mouse.position = (503, 287)
 			mouse.click(Button.left, 1)
 			time.sleep(1)
 	elif dd2 and '13' in a:
 		if dd2 in a:
-			mouse.position = (633, 422)
+			mouse.position = (616, 290)
 			mouse.click(Button.left, 1)
 			time.sleep(1)
 	elif dd2 and '14' in a:
 		if dd2 in a:
-			mouse.position = (750, 422)
+			mouse.position = (742, 284)
 			mouse.click(Button.left, 1)
 			time.sleep(1)
 	elif dd2 and '15' in a:
 		if dd2 in a:
-			mouse.position = (503, 548)
+			mouse.position = (504, 404)
 			mouse.click(Button.left, 1)
 			time.sleep(1)
 	elif dd2 and '16' in a:
 		if dd2 in a:
-			mouse.position = (624, 540)
+			mouse.position = (621, 421)
 			mouse.click(Button.left, 1)
 			time.sleep(1)
 	elif dd2 and '17' in a:
 		if dd2 in a:
-			mouse.position = (754, 535)
+			mouse.position = (758, 420)
 			mouse.click(Button.left, 1)
 			time.sleep(1)
 mouse = Controller()
