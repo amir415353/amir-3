@@ -1,0 +1,104 @@
+{
+	"c": {
+		"type": "hsw",
+		"req": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzIjoxNiwidCI6InciLCJkIjoiMDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtMDAwMDAwMDAwMDAwIiwibCI6Imh0dHBzOi8vYXNzZXRzLmhjYXB0Y2hhLmNvbS9jL2YzZDM5NGY2IiwiZSI6MTYxMzIzNDMwNH0.ek-0CqwCxKu6IQk1lKu5Nf4rwoiQt9s39ONoQ_oWz3k"
+	},
+	"challenge_uri": "https://hcaptcha.com/challenge/grid/challenge.js",
+	"key": "1a01eb88-906b-4da5-ae6d-5cc89870299e",
+	"request_config": {
+		"version": 0,
+		"shape_type": null,
+		"min_points": null,
+		"max_points": null,
+		"min_shapes_per_image": null,
+		"max_shapes_per_image": null,
+		"restrict_to_coords": null,
+		"minimum_selection_area_per_shape": null,
+		"multiple_choice_max_choices": 1,
+		"multiple_choice_min_choices": 1
+	},
+	"request_type": "image_label_binary",
+	"requester_question": {
+		"en": "Please click each image containing a boat"
+	},
+	"requester_question_example": [
+		"https://imgs.hcaptcha.com/bV1r6hF3/EOftpUCjtf5e4FCqZvzz1dBK7sB0FDZrRlxIDV4RufcJbNmJBWqz7i25NaxjlaS4fgv8QJqooL14QYFa9FfYTdpX8FBKbjIXIWNQgDseKRdAXvUh1I=uJb+c57y6/AAu3vb",
+		"https://imgs.hcaptcha.com/Mz9XJPINjOa3uqQsQAsdx+hClhWL3WsosV7ejS/pBQkDKyOq3TVXRZwth7B0/MeHpEL0h3IhKxvCzP3JAl/qL0Pl/3Mbq40m8ehF3C3ZfanvEkMznQulqNrsMAA=kej1p3j0JZYu1Y8e",
+		"https://imgs.hcaptcha.com/gjJ155Hl4rIvdrjJmUNM9ZORtlLGmZCMCMHeGmY7/9hTppsixegK5rF998mpEMRTGLDZ6To9cykXTcL5MVwF9SfT511RT8MJK/tJ3+9oQISqL1B7Ww75RuLX1A==u4n2VNqXIBHCf3Lw"
+	],
+	"tasklist": [
+		{
+			"datapoint_uri": "https://imgs.hcaptcha.com/A2UEBfN/TXJ6eN6NMClk+xe2NRYr2dHgM9XZ3ZmKsqkS1+rMYNnSC3GNNmKGX1ZoYBMmT8Aww/cDOW0HMgbKzmYspDdWmpeF7DRuPXd7SQ6axMS6dJ4aJQe0x2JBplu9pAFVqN0hpJIQxdVNi1fGKcOgA1BZCS/KLNfluC3seVzhJ3tZF0d2/7p9MyOQhbpjqzY=6pEgUhC8UH8kW+kN",
+			"task_key": "2d802c6e-9ad4-4156-ad0f-2b1855a882cc"
+		},
+		{
+			"datapoint_uri": "https://imgs.hcaptcha.com/A4Nw9AiM0wgqQQXcJhIsMvOyxjy0hYHyypkH5U/qiZquO+O1PpQrr6/VA/jjlcil+2pJtWYpkZzwUVjyQKZ9KwWFS6Aqsync3tLJfEBtdeEcqJyzsrBWh4S7ogwdCr2O3805rJTJAeAbqqbkBh0qQuxmfGxyfmiy7dmNUZ76GtXY31B1lNgTA+yH19WrwcDnXK0=5nZ8EJHPhF0EogK0",
+			"task_key": "d166da74-2b47-4d4c-bc39-739d14a51d95"
+		},
+		{
+			"datapoint_uri": "https://imgs.hcaptcha.com/mRk9dzijfZB4gc3iroIX0T7AOI/CiBPfFKiTPxrsMW0ffX3dc9H6SmLq5ROF2goQil3L7xLiVkJTKvzxMgqWi+D9hZ4HEhf24hAfc4i4RF9xK3CBgq3aXobGDu+7yNOALkJKwtinTsGN+KEWcQNAoI2R4aBTJVCm3bMDt+HeQgmiuK9/XI67WVP3JUKXmu0A3O1OYglgErKcBC9OakiC",
+			"task_key": "aa320e42-3a8c-4237-851f-6fa9bb9dda8d"
+		},
+		{
+			"datapoint_uri": "https://imgs.hcaptcha.com/m720JP+ycVc7l6fKOPSHQG1WHKBlPGlxK1a40S5TrBm473L3XYo30yHywwnLCRDF5slkxlCNfEimGThoozClv/wfwTZKAPnr5RJ4GhwV9dIIEzwYewcBPDnLzy5Vlu5QFbE8Kx1FIT3KEd6zLHXDQA3zy4TrhWYK+u7xPAsiiDbO+ZyuOKc1WWt/1Xjo4a+wdcvCDWywZOaUMihlTEaI",
+			"task_key": "98792c80-710d-4983-816e-4a756a92d01c"
+		},
+		{
+			"datapoint_uri": "https://imgs.hcaptcha.com/yk8hXYxVmSDWOGHDS1lYDOlDMIg8Lp1cdlrJ6Vdd7SnKmdLVhw6zlXuShpld/WfFuDeTBCevwXvuCSKUAvCiDYggukFjdZel1APGTUBbiWaXUqcmSmKcYELN+LfukU0Pt3+kSMLIIyX2pIREPOfhBdjcgL8Q4mZsEckXu7bC+0L6t+b4VAS55CF0MwOW8iQ7VjQ=vP6wDkXCTmQT0BRC",
+			"task_key": "cfa52e64-6dcd-4ea0-b7ca-00a71b0d20a4"
+		},
+		{
+			"datapoint_uri": "https://imgs.hcaptcha.com/39RXxxFASpexOFlsXEJnBz4aK9SFiByfIRSY5ECwXKTDJoALYk/Ij3kh+AaxX8ord9tJoAWI873x24mNoaMmk3X9zMm8hUxr3yBTunYmGkGSlcNAB5ABTWRHvOIOQwdkFnH/8zID4uAnIkxoPZOi6pnDB36iZZ9CT2QKRyzo8N/fkmHhOzWUIYwk0UVVexnlJbk=eB0fJZscjDn8fRQg",
+			"task_key": "005131b1-39c5-43c2-b0c6-190e9b0379fc"
+		},
+		{
+			"datapoint_uri": "https://imgs.hcaptcha.com/EhxvIfxAmUxtJZvvLVjiPpCUVqudg9X0murYZ0UjoggekR5IYWZQ/87gHomw2Ek9nEKfLWIfwRNu3AvuxwWK7D4+R1DCLySK8/x5J1vKtJcroqvTEyBAn6juc/U30Q42g5piP8mba7rW55OYqfpWNqByoQ6EBF4udkIcA8ktCSV+FqH5FcPMSwj/PEh8UKUrIhzhDZbiJeG1lb6LAKUa",
+			"task_key": "f6aa7336-7efb-4d69-93d1-259f885b2ebc"
+		},
+		{
+			"datapoint_uri": "https://imgs.hcaptcha.com/D2yN/lGeFnkk5OOaAUZBZsSC2eSzeh0KgsvZIM6CYVgWgvE+iajj+yhRGIrGbsoXbmbuIVe5e5ysZQ+ag5AVM3wAe44tYcCU0McTmbt2J7t6smlqaMZC3O2Dk0dUKXHJ0wdRUy1dbeM3l3nk43JJSLLaDoSurQmIDEjnLEiNKyxPIbjct0usRN+2uRa3stDRWjI=uNPbL2BXTUMU0fYb",
+			"task_key": "22482d6f-9615-4b84-8759-4ce808cbcf08"
+		},
+		{
+			"datapoint_uri": "https://imgs.hcaptcha.com/sxsgq6NOolK52xy0SAHc8mbwF1dCJ8cgWiUOIgIqzNmwMhMMGBICtkYxpVkKVhHVRwkTK5CR/+s7QBkq7wg3l23+qvdEVO8dnpO8yncluFxtO2519Dj4qf9opKMVfFWVA5aqUwXYHK5SC0p8zkYiMpwJfIXbXnSHadFE+sgTyYx9mxKXR18XoowoA9/ytRWAqOo=rlOVaxXXBLw68+29",
+			"task_key": "27b8846d-0e23-45db-8727-dae9607f55ef"
+		},
+		{
+			"datapoint_uri": "https://imgs.hcaptcha.com/rjAVT9UpKD4jUaAtx5qMa8ncxs447J1mKhc541hL+Pcfq33xk5NC3961tCrWYpCxb4FjSDLpmSkLG4kw3CWLik/3iNSj6BU4H67e49wP8doEyHngX9xETh6xJYyai57+r4FqhU7Ens9le7aeqsPVvGcSjwjKIqpmgRH+mKRizk6vqx0BgX8VhPGhbfH/6BNnfQA=BC8IM1lklBPEPfy1",
+			"task_key": "3d2fefc9-67e6-4379-ac8b-51768e210629"
+		},
+		{
+			"datapoint_uri": "https://imgs.hcaptcha.com/NJsGQk0kER8d73V91k6nV9c7gQNjCxftP4T7I6S+cvlaXymVUa45L3UuA9YGxkkzLSkoCEB0e5+/QCsNXQXSQk6QJlmHEBXxp6fExHG2YVCCNIc/vvolT5Pc/2XnUg63XpURrHhdclnjJC95aDsssTvonhnj5s6+5YUsIVb0GIUV0sUPoUlHpA2DDRLOQ1suBks=lqxfjnpXao+Fkoeq",
+			"task_key": "23fbe8a3-ab30-4559-923d-bd1d678febf1"
+		},
+		{
+			"datapoint_uri": "https://imgs.hcaptcha.com/UyLdwlBfISyz/U+/zsYr+vkBgemGfNrZJ9GxsJ+qKQD1iJ44AUznGh8zPpY7vIybzmauDY4TauT7cmd00JYFhwPRRiGjjEQCk0bvYRgHRElDS7K1bklr67rT+MrcJuKZzlh2UO0wnaUwbvPMecGwg6lFfy8au1VAKpkNRmm6fXZK2hxauuOCQk4d9LZCNRQowzY=DIsLy6yT8gpUYvHy",
+			"task_key": "fb0b45f9-c2aa-45ad-a0b2-9fda8826f333"
+		},
+		{
+			"datapoint_uri": "https://imgs.hcaptcha.com/BxbIJ3hEZ0+kqB8MG2JLX7FzTz0WCuAr2URVqDMc1e4xepTlfs8VSjEI7CXJudPqikbfpxWRJJJO9Vd/w+HU9KzN56UffJq1zm36ErlV1TfgqMq+tsdB5FrT4WER+w9yxoKccB/B9iuq+Twi+EXhHBFYbPjZWXmw+T8bqn2X5cDS9YBXyAFKc+XCowmI7u5o7BE=t/OWp4lOfBBzM0Kc",
+			"task_key": "08f732be-7c69-4534-9bc5-74434942f051"
+		},
+		{
+			"datapoint_uri": "https://imgs.hcaptcha.com/zozS8zf++M64N3sF5a2miTBkkCIvVxQ2LRgVUL+78SGmna16U2+TUiww6gJODr3iDzSyaqtBEJXmzOqr+d+ssMWhNxOTN+8Jg2l/VIEWenrI+pbbkRG2MAms/WoHA1bi58B4EWyzIddFnBh4VK4NOjnC/0uHAsqYuV/7cmDKqcrJ5b0Ob29urU2GaKqUEM7nTavp5WQJbYfA4y/nITPc",
+			"task_key": "00e5fb05-0f7e-4f8d-b8e2-99a8aec99f4e"
+		},
+		{
+			"datapoint_uri": "https://imgs.hcaptcha.com/L8S6llv4XdMiyUMD/f2ZfdT/Y5sMLBu8sLeGmUgrPeOrakM73K9+drNFx18G3p5mdm9tOPOrMNQ/25Ir4dIV0N3LjH1Z3+al0PYXTY5lERMXYMj+4IkU2HskUhe26SiRwLuzDIaKu+wFJMRGZPr0o5YvTxWHfdzs/6ccEs5ji2DUG2GRmvy3KA/bl1Kkq5x/glTdX7VU6cWqWQHMJosY",
+			"task_key": "9e8ada6a-8efe-4c04-abc4-0ffdb735cb22"
+		},
+		{
+			"datapoint_uri": "https://imgs.hcaptcha.com/t1qTAVo++G8wZnC4RNEPSCrDl8jNyPQ8SmHsMYeSyUYI3fa/fYIK4A8dA40MSkvdMJehVuzEcdq2wqjdH5JeyiDHntNdCr22ka7yJdKlq6zYYVw6pkaSwg0IzDGsdMBt64GE7a/Q+fLKTAtbSQ9UU4f91UX55OHS3TTt04Dv0zC77No25hznOPJdOBCxi7gAfms=2TmrvtSU81tUISNj",
+			"task_key": "0c2ec95e-fccd-4846-8250-73e37ce978c7"
+		},
+		{
+			"datapoint_uri": "https://imgs.hcaptcha.com/LB8mr6QBToxq7shdMgtYBNmEzbbtaQuYr+pYG3nEF7z91WqchyCwHXUT3so1RkmmO0nrjs5QQZ5hyyG88+TghLrSUO/Qo2yYuqic4XWOlH76rKQ1jznc7SSRsL6KtRmm1NQPrGIGV3KtTIbUCBU7gtj/zql5SiJjKY5XE+sSg7Y3QAQWDwu3t3bBDtaXJTRogNt2jQZPc/7rD8OKfRiu",
+			"task_key": "265e7bf7-aba8-46db-812e-a1f175c83375"
+		},
+		{
+			"datapoint_uri": "https://imgs.hcaptcha.com/U+t05NVcauHUWHJERH0aYDfGpM4eEQlh2YNJ3lZEL9zrEDDu7rcfAFGapVLTORXkwmzG/KiQeHoqzB2AJffm+/PQJuvosYHVDTW+o0jo5Y4n4BU52QoTgPSwD36SBUV+4Fc9Ebuoq87vV1aBPwJs985/OWAX7DqyTEGAgFT1jL12cOy9jV33gVutmCyZ6cOh1iU=7K7ODB7rNaKxGY0v",
+			"task_key": "0c2761b0-7883-4ff4-a4d4-0629de6a12d5"
+		}
+	],
+	"bypass-message": "No bypass_token found."
+}
