@@ -690,7 +690,7 @@ p3 = multiprocessing.Process(target=hcs3)
 p4 = multiprocessing.Process(target=hcs4)
 if __name__ == "__main__":
     p1.start()
-    time.sleep(15)
+    time.sleep(10)
     p2.start()
     p3.start()
     p4.start()
