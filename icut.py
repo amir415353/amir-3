@@ -10,9 +10,6 @@ import pytesseract
 time.sleep(5)
 with mss() as sct:
     sct.shot()
-
-exit()
-pytesseract.pytesseract.tesseract_cmd = r'F:\Program Files\ocr\tesseract.exe'
 img = cv2.imread("monitor-1.png")
 y = 262
 x = 93
@@ -30,5 +27,3 @@ a = pytesseract.image_to_string(Image.open('index2.png'))
 b = a.split()
 print(b)
 print(b[0])
-exit()
-
