@@ -51,6 +51,7 @@ def cg_b2(cg, lines25, lines36, lines47):
 						if str(cg[2]) in str(lines47):
 							ans = 'yes'
 							return ans
+input_text2 = 'bus'
 infile = 'payload115_bus.jpg'
 image_slicer.slice(infile, 9)
 infile1 = infile.replace('.jpg', '')
@@ -1610,7 +1611,6 @@ def rcs3():
 	for val in test_list:
 		if val != None:
 			lines_s2.append(val)
-	input_text2 = 'bus'
 	if 'trai' in input_text2:
 		input_text3 = 1
 	elif 'bus' in input_text2:
@@ -1631,7 +1631,7 @@ def rcs3():
 		input_text3 = 9
 	elif 'fire' in input_text2:
 		input_text3 = 10
-	elif 'crossw' in input_text2:
+	elif 'crossw' or 'Peels' in input_text2:
 		input_text3 = 11
 	elif 'traffic li' in input_text2:
 		input_text3 = 12
